@@ -1,3 +1,13 @@
+![pro-4-2](https://github.com/user-attachments/assets/f500257f-64a6-4b30-a428-6e361ad1bfa0)
+![pro-4-9](https://github.com/user-attachments/assets/5178dfcd-d670-4dec-9e5f-26612a6144d9)
+![pro-4-8](https://github.com/user-attachments/assets/1876e892-26ed-426e-be1a-701b198d6093)
+![pro-4-7](https://github.com/user-attachments/assets/290e01a6-3a2f-4502-97b6-cea5abae1e35)
+![pro-4-6](https://github.com/user-attachments/assets/5be5384f-c45d-4895-8cb9-a6cd8290f138)
+![pro-4-5](https://github.com/user-attachments/assets/a8129641-440b-4989-baba-f5e44d71faf5)
+![pro-4-4](https://github.com/user-attachments/assets/229485a5-4581-4d4d-a3b4-006e6bbaae5b)
+![pro-4-3](https://github.com/user-attachments/assets/f72cc544-595d-492e-b6a6-c2cf4b358dfa)
+![pro-4-2](https://github.com/user-attachments/assets/73ac14f7-3b13-4efb-a8e2-709fffe6413a)
+![pro-4-10-2](https://github.com/user-attachments/assets/51da94bf-4dd0-4142-b9c9-e2ac1beee455)
 # mobile_data-PROJECT-4
 # Feature Extraction and Price Prediction for Mobile Phones
 
